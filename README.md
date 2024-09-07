@@ -11,10 +11,10 @@ Shikhar Gupta</b></h1>
 - 🔭 I’m currently a student studying in [<b>V</b>ellore <b>I</b>nstitute of <b>T</b>ecnology, Bhopal](https://vitbhopal.ac.in/).
 <br/>
 
-- 🌱 I’m currently Working on Artificial Intellegence and Machine Learning Development. 
+- 🌱 I’m currently Working on Artificial Intelligence and Machine Learning Development. 
 <br/>
 
-- 🌱 I’m currently upgrading my skills in Artificial Intellegence and Deep Learning.
+- 🌱 I’m currently upgrading my skills in Artificial Intelligence and Deep Learning.
 <br/>
 
 - 📫 How to reach me **shikhar.gupta.1209@gmail.com**.
