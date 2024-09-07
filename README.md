@@ -65,7 +65,7 @@ Shikhar Gupta</b></h1>
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShikharXGupta&theme=aura_dark" />
+  <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShikharXGupta&theme=dark" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShikharXGupta&theme=dark&hide_border=true" />
 
@@ -75,7 +75,7 @@ Shikhar Gupta</b></h1>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShikharXGupta&theme=aura_dark"/>
+  <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShikharXGupta&theme=dark"/>
   
   </td>
 </tr>
